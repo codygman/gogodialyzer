@@ -1,0 +1,3 @@
+* TODO parse sample Go file
+* TODO look for all type assertions
+* TODO try to follow back type assertion to original source and analyze whether there will be a type error
